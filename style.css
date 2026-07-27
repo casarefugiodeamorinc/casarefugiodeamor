@@ -367,7 +367,100 @@ nav a:hover{
 
 }
 
+.damas-image{
 
+    flex:1;
+
+}
+
+
+.damas-image img{
+
+    width:80%;
+
+    border-radius:20px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+    transform: translateX(40px);
+
+}
+
+.caballeros-image{
+
+    flex:1;
+
+}
+
+
+.caballeros-image img{
+
+    width:80%;
+
+    border-radius:20px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+    transform: translateX(40px);
+
+}
+
+.intercesion-image{
+
+    flex:1;
+
+}
+
+
+.intercesion-image img{
+
+    width:80%;
+
+    border-radius:20px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+    transform: translateX(40px);
+
+}
+
+.cocina-image{
+
+    flex:1;
+
+}
+
+
+.cocina-image img{
+
+    width:80%;
+
+    border-radius:20px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+    transform: translateX(40px);
+
+}
+
+.mantenimiento-image{
+
+    flex:1;
+
+}
+
+
+.mantenimiento-image img{
+
+    width:80%;
+
+    border-radius:20px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+    transform: translateX(40px);
+
+}
 
 .ministry-text{
 
@@ -518,7 +611,7 @@ nav a:hover{
 .pastor-card{
     width:320px;
     padding:35px;
-    background:white;
+    background:rgb(223, 245, 255);
     border-radius:20px;
     box-shadow:0 10px 25px rgba(0,0,0,.08);
     transition:.3s;
@@ -643,7 +736,7 @@ nav a:hover{
 
 .predicas{
     padding:90px 80px;
-    background:#fafafa;
+    background:#f8e0d7;
     text-align:center;
 }
 
@@ -666,7 +759,7 @@ nav a:hover{
 
 .predica-card{
     width:320px;
-    background:white;
+    background:rgb(255, 255, 255);
     border-radius:20px;
     overflow:hidden;
     box-shadow:0 10px 25px rgba(0,0,0,.08);
